@@ -16,4 +16,8 @@ mix
 
     .sass('resources/sass/app.scss', 'public/css')
     .sass('resources/sass/sign_in.scss', 'public/css')
-    .sass('resources/sass/sign_up.scss', 'public/css');
+    .sass('resources/sass/sign_up.scss', 'public/css')
+    .sass('resources/sass/header.scss', 'public/css')
+    .sass('resources/sass/list_edit.scss', 'public/css')
+    .sass('resources/sass/list_new.scss', 'public/css')
+    .sass('resources/sass/top.scss', 'public/css');

@@ -2,5 +2,9 @@
     "/js/app.js": "/js/app.js",
     "/css/app.css": "/css/app.css",
     "/css/sign_in.css": "/css/sign_in.css",
-    "/css/sign_up.css": "/css/sign_up.css"
+    "/css/sign_up.css": "/css/sign_up.css",
+    "/css/header.css": "/css/header.css",
+    "/css/list_edit.css": "/css/list_edit.css",
+    "/css/list_new.css": "/css/list_new.css",
+    "/css/top.css": "/css/top.css"
 }
